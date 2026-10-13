@@ -1,0 +1,100 @@
+Subject,Total_Records,Present,Absent,Attendance_Percentage
+3D Printing,293,236.0,57.0,80.55
+AI Assisted Problem Solving Using Python,18665,14648.0,4017.0,78.48
+AI for Electronics Engineering,755,605.0,150.0,80.13
+AI for Mechanical Engineering,294,226.0,68.0,76.87
+ASIC Design,514,393.0,121.0,76.46
+Advanced Digital Technology in Manufacturing,320,226.0,94.0,70.62
+Advances in Transmission and Distribution,614,493.0,121.0,80.29
+Agentic AI,7998,6293.0,1705.0,78.68
+Algorithms,14400,11754.0,2646.0,81.62
+Analog Circuit Analysis,1160,881.0,279.0,75.95
+Analog and Digital Electronics,688,528.0,160.0,76.74
+Antenna and Wave Propagation,754,593.0,161.0,78.65
+Artificial Intelligence and Deep Learning,14400,11847.0,2553.0,82.27
+Augmented and Virtual Reality,8002,6383.0,1619.0,79.77
+Blockchain Engineering,8000,6326.0,1674.0,79.07
+Business Analytics,1034,802.0,232.0,77.56
+Business Ethics,440,340.0,100.0,77.27
+Business Strategies,574,451.0,123.0,78.57
+Calculus and Differential Equations,22339,17553.0,4786.0,78.58
+Cloud Computing,17600,14118.0,3482.0,80.22
+Compiler Design,8000,6356.0,1644.0,79.45
+Computational Biology,18665,14782.0,3883.0,79.2
+Computational Chemistry,3672,2826.0,846.0,76.96
+Concrete Technology,448,361.0,87.0,80.58
+Construction Equipment and Management,640,479.0,161.0,74.84
+Consumer Psychology,573,441.0,132.0,76.96
+Control Systems,1600,1229.0,371.0,76.81
+Critical Thinking and Interpersonal Skills,14400,11744.0,2656.0,81.56
+DC Machines and Transformer,688,532.0,156.0,77.33
+Data Analytics and Visualization,17600,14278.0,3322.0,81.12
+Data Analytics using Power BI,573,448.0,125.0,78.18
+Data Center Operations and Infrastructure,8002,6379.0,1623.0,79.72
+Data Communication,515,398.0,117.0,77.28
+Design of Steel Structures,293,232.0,61.0,79.18
+DevOps and Full Stack,7998,6420.0,1578.0,80.27
+Digital Manufacturing System Design,293,238.0,55.0,81.23
+Economics for Enterprise Management,680,562.0,118.0,82.65
+Electrical Power Transmission,688,532.0,156.0,77.33
+Emerging Nanotechnologies for Engineers,514,402.0,112.0,78.21
+Financial Management,1033,834.0,199.0,80.74
+Financial Reporting and Analysis,680,539.0,141.0,79.26
+Fluid Mechanics and Hydraulic Machines,448,359.0,89.0,80.13
+Foundations of Engineering,22340,17536.0,4804.0,78.5
+Generative AI,754,594.0,160.0,78.78
+Generative AI Applications,440,348.0,92.0,79.09
+Geotechnical Engineering,293,238.0,55.0,81.23
+Hardware Modeling using Verilog,754,593.0,161.0,78.65
+"Heritage, Democracy and Ecology",22340,17719.0,4621.0,79.32
+High Voltage Engineering,613,487.0,126.0,79.45
+Highway Engineering,294,239.0,55.0,81.29
+Human Resource Management,460,378.0,82.0,82.17
+Information Management System,17600,14288.0,3312.0,81.18
+Legal and Regulatory Environment of Business,680,533.0,147.0,78.38
+Machine Design,293,221.0,72.0,75.43
+Machine Learning Optimization,613,503.0,110.0,82.06
+Machine Tools and Metrology,293,240.0,53.0,81.91
+Machines and Mechanisms,374,289.0,85.0,77.27
+Management Consulting,440,329.0,111.0,74.77
+Management and Organisation Dynamics,680,535.0,145.0,78.68
+Manufacturing Technology,373,290.0,83.0,77.75
+Marketing Management,460,371.0,89.0,80.65
+Material Science Engineering,373,306.0,67.0,82.04
+Mechanics of Solids,373,300.0,73.0,80.43
+Microelectronics for Semiconductor IC Design,754,600.0,154.0,79.58
+Nanomaterials and Nanotechnology,1160,901.0,259.0,77.67
+Next-Gen Entrepreneurship,680,517.0,163.0,76.03
+Object Oriented Programming in Javascript,514,393.0,121.0,76.46
+Operating Systems and Computer Networks,17600,14335.0,3265.0,81.45
+Operations Management,440,343.0,97.0,77.95
+Operations Research,293,238.0,55.0,81.23
+Power Plant Engineering,320,255.0,65.0,79.69
+Power Semiconductor Drives,440,356.0,84.0,80.91
+Power System Analysis,440,342.0,98.0,77.73
+Powertrain for Electric Vehicles,440,359.0,81.0,81.59
+Pre-Stressed Concrete Structures and Design,640,494.0,146.0,77.19
+Problem Solving Using Python,2222,1708.0,514.0,76.87
+Production Planning and Control,320,247.0,73.0,77.19
+Production and Operations Management,573,446.0,127.0,77.84
+Quantum Computing,514,423.0,91.0,82.3
+Quantum Mechanics and Materials,754,585.0,169.0,77.59
+Random Variables and Stochastic Process,1160,891.0,269.0,76.81
+Robotic System Design,293,224.0,69.0,76.45
+Satellite Communication,515,416.0,99.0,80.78
+Sensors and Instrumentation,514,403.0,111.0,78.4
+Signals and Systems,1160,890.0,270.0,76.72
+"Signals, Systems, and Transforms",688,525.0,163.0,76.31
+Sociology,440,353.0,87.0,80.23
+Software Engineering and System Design,14400,11750.0,2650.0,81.6
+Solid Waste Management,294,253.0,41.0,86.05
+Statistics for Computer Science,14400,11885.0,2515.0,82.53
+Strategic Management,440,315.0,125.0,71.59
+Strength of Materials,448,359.0,89.0,80.13
+Surveying and Geomatics,448,361.0,87.0,80.58
+Sustainability and Ethical Innovation,1937,1530.0,407.0,78.99
+Technical and Professional Communication for Engineers,22339,17620.0,4719.0,78.88
+Thermodynamics,373,297.0,76.0,79.62
+Unconventional Machining Process,320,255.0,65.0,79.69
+Web Technologies and Mobile Programming,17600,14317.0,3283.0,81.35
+Wind Energy Systems,440,345.0,95.0,78.41

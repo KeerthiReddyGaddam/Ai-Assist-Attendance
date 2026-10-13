@@ -1,0 +1,11 @@
+AI SMART ATTENDANCE SYSTEM
+DATA ANALYSIS REPORT
+==================================================
+
+Total Records: 384000
+Present Records: 283963
+Absent Records: 77065
+Late Records: 22972
+Overall Attendance: 79.93%
+
+Students below 75% attendance: 700
